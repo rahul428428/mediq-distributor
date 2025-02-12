@@ -1,0 +1,16 @@
+{
+  "title": "About Us",
+  "text": "TradeBollant, founded in October 2021, is a fast-growing pharmaceutical company based in Hoshiarpur, Punjab, India. Dedicated to enhancing healthcare accessibility and quality, we specialize in offering a wide range of high-quality, affordable pharmaceutical products.",
+  "section": [
+    {
+      "title": "Our Products",
+      "content": "We manufacture a wide range of pharmaceutical products to meet the diverse needs of the healthcare market.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Partner With Us?",
+      "content": "Are you looking for a trusted pharmaceutical manufacturer?",
+      "icon": "notes.svg"
+    }
+  ]
+}

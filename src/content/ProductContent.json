@@ -1,0 +1,25 @@
+{
+  "title": "Our Products",
+  "products": [
+    {
+      "name": "Tablets",
+      "description": "Description of Product 1",
+      "image": "/img/Tablets.jpg"
+    },
+    {
+      "name": "Syrups",
+      "description": "Description of Product 2",
+      "image": "/img/syrups.jpg"
+    },
+    {
+      "name": "Softgel Capsules",
+      "description": "Description of Product 1",
+      "image": "/img/softgelcapsules.jpg"
+    },
+    {
+      "name": "Injections",
+      "description": "Description of Product 2",
+      "image": "/img/injections.jpg"
+    }     
+  ]
+}
