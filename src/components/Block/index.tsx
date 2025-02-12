@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { withTranslation, TFunction } from "react-i18next";
 import { Container, TextWrapper, Content } from "./styles";
 

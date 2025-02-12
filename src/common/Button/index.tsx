@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { StyledButton } from "./styles";
 import { ButtonProps } from "../types";
 

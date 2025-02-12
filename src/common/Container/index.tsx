@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { StyledContainer } from "./styles";
 import { ContainerProps } from "../types";
 

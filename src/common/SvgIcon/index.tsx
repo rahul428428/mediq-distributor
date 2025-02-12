@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { SvgIconProps } from "../types";
 
 export const SvgIcon = ({ src, width, height }: SvgIconProps) => (
